@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98255" started-at="2020-02-13T10:57:23Z" finished-at="2020-02-13T10:59:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="98255" started-at="2020-02-13T10:57:23Z" finished-at="2020-02-13T10:59:02Z">
+      <class name="Testcases.TC_Logintest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Testcases.TC_Logintest@f97850]" name="setup" is-config="true" duration-ms="26818" started-at="2020-02-13T16:27:23Z" finished-at="2020-02-13T16:27:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:Testcases.TC_Logintest@f97850]" name="Logintest" duration-ms="4749" started-at="2020-02-13T16:27:50Z" finished-at="2020-02-13T16:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testcases.TC_Logintest@f97850]" name="teardown" is-config="true" duration-ms="1310" started-at="2020-02-13T16:27:55Z" finished-at="2020-02-13T16:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC_Logintest -->
+      <class name="Testcases.TC_logintest_excel">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="setup" is-config="true" duration-ms="9416" started-at="2020-02-13T16:27:56Z" finished-at="2020-02-13T16:28:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="loginDDT" duration-ms="8958" started-at="2020-02-13T16:28:07Z" data-provider="LoginData" finished-at="2020-02-13T16:28:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr164225]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jahetAp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="loginDDT" duration-ms="6115" started-at="2020-02-13T16:28:16Z" data-provider="LoginData" finished-at="2020-02-13T16:28:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr83460]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="loginDDT" duration-ms="5545" started-at="2020-02-13T16:28:22Z" data-provider="LoginData" finished-at="2020-02-13T16:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr137319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="loginDDT" duration-ms="27452" started-at="2020-02-13T16:28:28Z" data-provider="LoginData" finished-at="2020-02-13T16:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr244762]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ubYpevy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="loginDDT" duration-ms="5487" started-at="2020-02-13T16:28:55Z" data-provider="LoginData" finished-at="2020-02-13T16:29:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr112909]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tytUreg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testcases.TC_logintest_excel@f60048]" name="teardown" is-config="true" duration-ms="1089" started-at="2020-02-13T16:29:00Z" finished-at="2020-02-13T16:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC_logintest_excel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
